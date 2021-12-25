@@ -1,0 +1,19 @@
+.container {
+    padding-left: 10%;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.heading_wrapper {
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 200px;
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+}
